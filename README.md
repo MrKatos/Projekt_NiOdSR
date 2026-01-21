@@ -44,7 +44,9 @@ xhost -
 
 
 
-Sterowanie
- klik powyżej środka - jazda w prawo
- klik poniżej środka - jazda w lewo
+### Sterowanie
+- klik powyżej środka - jazda w prawo
+- klik poniżej środka - jazda w lewo
+ 
+<img width="1207" height="553" alt="image" src="https://github.com/user-attachments/assets/8a931b9d-38ba-49c5-a88a-bcc99045ab4d" />
 
