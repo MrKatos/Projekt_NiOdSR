@@ -1,3 +1,29 @@
+# ROS2 Robot Control 🤖🚧
+
+##Opis projektu
+
+Projekt został zrealizowany w środowisku **ROS2** i stanowi interfejs do sterowania zolwikiem z wykorzystaniem kliknięcia myszką.
+Celem projektu było stworzenie Node'a, który steruje TurtleSIM w środowisku ROS2.
+
+---
+
+## Funkcjonalność 
+- uruchomienie własnego Node'a sterującego robotem,
+- sterowanie robotem poprzez kliknięcie myszy w czarny ekran
+- publikacja kodu w repozytorium GitHub wraz z dokumentacją.
+
+---
+
+## Instalacja
+
+
+
+
+
+
+
+
+
 Camera Control – ROS2
 
 Projekt umożliwia sterowanie TurtleBotem na podstawie kliknięcia
