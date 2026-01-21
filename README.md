@@ -1,6 +1,6 @@
 # ROS2 Robot Control 🤖🚧
 
-##Opis projektu
+## Opis projektu
 
 Projekt został zrealizowany w środowisku **ROS2** i stanowi interfejs do sterowania zolwikiem z wykorzystaniem kliknięcia myszką.
 Celem projektu było stworzenie Node'a, który steruje TurtleSIM w środowisku ROS2.
