@@ -15,10 +15,15 @@ Celem projektu było stworzenie Node'a, który steruje TurtleSIM w środowisku R
 ---
 
 ## Instalacja
+
 cd ~/ros2_ws/src
+
 git clone https://github.com/MrKatos/Projekt_NiOdSR
+
 cd ~/ros2_ws
+
 colcon build --packages-select camera_control
+
 source install/setup.bash
 
 ---
@@ -37,7 +42,9 @@ docker biuld camera_control_obraz
 ### Urochomianie konteneru:
 
 xhost +
+
 docker run -it -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix:rw --volume [PATH]:[IMAGE_PATH] [ID] bash
+
 xhost -
 
 
