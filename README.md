@@ -32,6 +32,7 @@ ros2 launch camera_control turtle_launch.py
 ## DockerFile
 ### Budowanie obrazu:
 cd ~/ros2_ws/src/camera_control 
+
 docker biuld camera_control_obraz
 ### Urochomianie konteneru:
 
